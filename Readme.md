@@ -25,7 +25,7 @@ In this project we will first detect the color of the pen that we are using act 
 
 ---
 ## Output
-
+![I1](https://user-images.githubusercontent.com/60354122/136669810-67cf20da-e504-44d0-aeeb-710540a502fb.jpg)
 
 ---
 
